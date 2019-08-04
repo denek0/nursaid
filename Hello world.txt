@@ -1,2 +1,5 @@
 print("Hello world")
 print("Hello everybody")
+print("En sevdigim kardesim omer faruk nart dir.")
+a = (2.5 + 2.5)
+print("Sonuc: 2x2="+str(a))
